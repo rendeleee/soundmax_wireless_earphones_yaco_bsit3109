@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background: #eee;
+    background: white;
     padding: 0;
     margin: 0;
 }
@@ -8,7 +8,6 @@ body {
 .product-page {
     width: 100%;
     margin: 0;
-    background: white;
     padding: 5px;
     box-sizing: border-box;
 }
