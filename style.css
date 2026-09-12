@@ -61,13 +61,13 @@ h2 {
     color: white;
 }
 
-.specifications td {
-    border: 1px solid #aaa;
-}
-
 .specifications th,
 .specifications td {
     padding: 2px;
+}
+
+.specifications td {
+    border: 1px solid #aaa;
 }
 
 .regular-price,
